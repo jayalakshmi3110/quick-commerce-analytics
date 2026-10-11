@@ -17,7 +17,7 @@ to find what drives revenue and how delivery speed affects customer ratings.
 ## Repository structure
 | Path | Description |
 |---|---|
-| sql/quickcommerce_project.sql | Tables, data generation, view and 6 analysis queries,update query |
+| sql/quickcommerce_project.sql | Tables, data generation, view and 6 analysis queries,update query,result |
 | powerbi/QuickCommerce_Dashboard.pbix | Power BI report |
 | images/dashboard.png | Dashboard screenshot 
 | data/vw_sales.csv | Exported view used in Power BI |
